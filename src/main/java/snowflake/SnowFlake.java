@@ -1,3 +1,8 @@
+package snowflake;
+
+/**
+ * 分布式id-雪花算法
+ */
 public class SnowFlake {
 
     //下面两个每个5位，加起来就是10位的工作机器id

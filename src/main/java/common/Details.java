@@ -1,5 +1,8 @@
 package common;
 
+/**
+ * 二进制转十进制
+ */
 public class Details {
  
   public int BinaryToDecimal(int binaryNumber){
